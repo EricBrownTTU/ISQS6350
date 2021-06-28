@@ -1,0 +1,11 @@
+"individual","sex","age","IQ","depression","health","weight"
+1,"Male",21,120,"Yes","Very good",150
+2,"Male",43,NA,"No","Very good",160
+3,"Male",22,135,"No","Average",135
+4,"Male",86,150,"No","Very poor",140
+5,"Male",60,92,"Yes","Good",NA
+6,"Female",16,130,"Yes","Good",110
+7,"Female",NA,150,"Yes","Very good",120
+8,"Female",43,NA,"Yes","Average",120
+9,"Female",22,84,"No","Average",105
+10,"Female",80,70,"No","Good",100
